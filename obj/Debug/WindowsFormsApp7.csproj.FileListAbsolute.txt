@@ -1,0 +1,14 @@
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\20122\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\20122\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\20122\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\20122\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
